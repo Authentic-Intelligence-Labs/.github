@@ -60,7 +60,7 @@ We are an open community and welcome contributions from Data Engineers, Analytic
 
 ---
 
-# 🧩 Why now, why this?
+## 🧩 Why now, why this?
 ![Infographic](https://res.cloudinary.com/dcfadz2uh/image/upload/v1764220237/infographic-bdm-potrait-reduced_flwuu3.jpg)
 
 ---
