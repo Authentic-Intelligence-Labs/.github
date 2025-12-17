@@ -64,6 +64,6 @@ We are an open community and welcome contributions from Data Engineers, Analytic
 
 © 2025 Authentic Intelligence Labs • Licensed under Apache 2.0
 <br>
-<a href="https://quirkyswirl.netlify.app/">Website</a> • <a href="https://github.com/Authentic-Intelligence-Labs">GitHub</a>
+<a href="https://metricprovenance.com/">Website</a> • <a href="https://github.com/Authentic-Intelligence-Labs">GitHub</a>
 
 </div>
